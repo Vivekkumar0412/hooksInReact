@@ -22,6 +22,7 @@ function App() {
       <button onClick={addVal}>ADD {counter}</button>
       <button onClick={rmVal}>REMOVE {counter}</button>
       <p>FOOTER : {counter}</p>
+      <h2>checking .... {counter}</h2>
     </>
   );
 }
